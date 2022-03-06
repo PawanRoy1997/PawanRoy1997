@@ -6,7 +6,7 @@ Software Engineer at  [![MagicApps](https://magicapps.co.in/images/LOGO-1.png)](
 
 [![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997/PawanRoy1997)
 
-##   A little more about me... <img src="https://avatars.githubusercontent.com/u/42890011?v=4" height="auto" width="200" style="border-radius:50%">
+##   A little more about me... <img src="https://avatars.githubusercontent.com/u/42890011?v=4" height="auto" width="50" style="border-radius:50%">
 
 ```kotlin
 
