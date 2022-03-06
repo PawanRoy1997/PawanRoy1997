@@ -1,14 +1,16 @@
-## Hi, I'm Pawan Roy
+<h2> Hi, I'm Pawan Roy</h2>
 
-Software Engineer at  [![MagicApps](https://magicapps.co.in/images/LOGO-1.png)](https://magicapps.co.in)
+Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
+</a>
 
-[![Linkedin: pawanroy](https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-roy-4a2964214/)](https://www.linkedin.com/in/pawan-roy-4a2964214)
+<a href="https://www.linkedin.com/in/pawan-roy-4a2964214">
+<img src="https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawan-roy-4a2964214/">
+</a>
+<img src="https://avatars.githubusercontent.com/u/42890011?v=4" height="auto" width="100" style="border-radius:50%">
 
 [![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997/PawanRoy1997)
 
-##   <img src="https://avatars.githubusercontent.com/u/42890011?v=4" height="auto" width="50" style="border-radius:50%">
-
-## A little more about me... 
+## A little more about me...  
 
 ```kotlin
 
