@@ -18,7 +18,6 @@ object Pawan{
     const val pronouns = setOf('He','Him')
     const val code = arrayOf('Php','Kotlin','Java','Xml','JavaScript')
     const val tools = arrayOf('Android', 'Laravel', 'React-Native', 'Node')
-    const val 
 }
 ```
 # PawanRoy1997
