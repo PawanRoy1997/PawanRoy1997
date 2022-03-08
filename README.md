@@ -5,7 +5,7 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 
 [![](https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](https://pawanroy0066@gmail.com)
 [![](https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-roy-4a2964214)
-[![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997/PawanRoy1997)
+[![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997)
 
 ## A little more about me...  
 
