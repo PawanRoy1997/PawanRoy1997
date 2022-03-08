@@ -22,6 +22,7 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white)
 
 ## Editors
@@ -38,64 +39,35 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 
 
 ## Familiar with
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white)
-
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white)
-
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white)
-
-![](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-![](https://img.shields.io/badge/tool-gimp-informational?style=flat&logo=gimp&logoColor=white)
-
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-![](https://img.shields.io/badge/Composer-885630?style=flat&logo=Composer&logoColor=white)
-
-![](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
-
-![](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-![](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-
-![](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-
-![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)
-
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-
-![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
-![](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white)
-
-![](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-![](https://img.shields.io/badge/Xampp-F37623?style=flat&logo=xampp&logoColor=white)
-
-![](https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
-
-![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
-
-![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat&logo=vim&logoColor=white)
-
-
-
-![](https://img.shields.io/badge/eslint-3A33D1?style=flat&logo=eslint&logoColor=white)
-
-![](https://img.shields.io/badge/prettier-1A2C34?style=flat&logo=prettier&logoColor=F7BA3E)
-
-![](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-
-![](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Tool-gimp-informational?style=flat&logo=gimp&logoColor=white)
+![](https://img.shields.io/badge/Fragmenwork-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Dependency_Manager-Composer-informational?style=flat&logo=Composer&logoColor=white)
+![](https://img.shields.io/badge/Platform-Expo-informational?style=flat&logo=expo&logoColor=white)
+![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=yellow)
+![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=red)
+![](https://img.shields.io/badge/Framework-Jupyter-informational?&style=flat&logo=Jupyter&logoColor=orange)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=red)
+![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white)
+![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white)
+![](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Tool-Xampp-informational?style=flat&logo=xampp&logoColor=white)
+![](https://img.shields.io/badge/Dependency_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=white)
+![](https://img.shields.io/badge/Editor-NeoVim-informational?&style=flat&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Editor-VIM-informational?&style=flat&logo=vim&logoColor=white)
+![](https://img.shields.io/badge/Linter-Eslint-informational?style=flat&logo=eslint&logoColor=white)
+![](https://img.shields.io/badge/Formatter-prettier-informational?style=flat&logo=prettier&logoColor=F7BA3E)
+![](https://img.shields.io/badge/Platform-React_Native-informational?style=flat&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Shell-GIT-informational?style=flat&logo=git&logoColor=white)
 
 <!-- Analytic Cards -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue)
-![](https://github-readme-stats.vercel.app/api?username=PawanRoy1997)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=PawanRoy1997) -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=PawanRoy1997) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997)
-![](https://github-profile-trophy.vercel.app/?username=PawanRoy1997)
