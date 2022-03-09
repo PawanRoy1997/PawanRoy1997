@@ -3,7 +3,7 @@
 Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 </a>
 
-[![](https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white&color=2bbc8a)](https://pawanroy0066@gmail.com)
+[![](https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white)](https://pawanroy0066@gmail.com)
 [![](https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-roy-4a2964214)
 [![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997)
 
@@ -16,26 +16,26 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/OS-Windows-infromational?style=flat&logo=windows&logoColor=white)
 ### Languages
 
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&logoColor=white)
+![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white)
 
 ## Editors
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/Code-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ## Database
-![](https://img.shields.io/badge/Tools-My_SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Realm_DB-informational?style=flat&logo=realm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Tools-My_SQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Tools-Realm_DB-informational?style=flat&logo=realm&logoColor=white)
+![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white)
 
 
 ## Familiar with
