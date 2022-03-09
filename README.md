@@ -16,7 +16,6 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/OS-Windows-infromational?style=flat&logo=windows&logoColor=white)
 ### Languages
 
-![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&logoColor=white)
@@ -51,7 +50,7 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=yellow)
 ![](https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=red)
-![](https://img.shields.io/badge/Framework-Jupyter-informational?&style=flat&logo=Jupyter&logoColor=orange)
+![](https://img.shields.io/badge/Framework-Junit5-informational?style=flat&logo=junit5&logoColor=white)
 ![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=red)
 ![](https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white)
