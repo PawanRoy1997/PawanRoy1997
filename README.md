@@ -30,7 +30,6 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/Code-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ## Database
-![](https://img.shields.io/badge/Tools-My_SQL-informational?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-Realm_DB-informational?style=flat&logo=realm&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white)
