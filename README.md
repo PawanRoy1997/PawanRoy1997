@@ -3,7 +3,7 @@
 Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 </a>
 
-I am kind of curious kind of person and likes to try new technologies. I mostly work with Kotlin in android development and also like to learn web frameworks and databases.
+I am curious kind of person and likes to try new technologies. I mostly work with Kotlin in android development and also like to learn web frameworks and databases.
 
 You can contact me if want collaboration in any project. 
 
