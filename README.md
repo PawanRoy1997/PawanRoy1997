@@ -3,42 +3,51 @@
 Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 </a>
 
+I am kind of curious kind of person and likes to try new technologies. I mostly work with Kotlin in android development and also like to learn web frameworks and databases.
+
+You can contact me if want collaboration in any project. 
+
 [![](https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white)](https://pawanroy0066@gmail.com)
 [![](https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-roy-4a2964214)
 [![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997)
 
-## A little more about me...  
+## A little more about me
 
-## Operating System
+### Operating System I have used...
 
 ![](https://img.shields.io/badge/OS-Fedora-informational?style=flat&logo=fedora&logoColor=white)
 ![](https://img.shields.io/badge/OS-Ubuntu-infromational?style=flat&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/OS-Windows-infromational?style=flat&logo=windows&logoColor=white)
-### Languages
+## Languages I know
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
+#### Most Familiar with...
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white)
+#### I know but not very familiar with...
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Code-Gradle-informational?style=flat&logo=gradle&logoColor=white)
 ![](https://img.shields.io/badge/Code-Php-informational?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Language-Markdown-informational?style=flat&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/Code-Json-informational?style=flat&logo=json&logoColor=white)
 
-## Editors
+## Editors I am Familiar with...
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/Code-Visual_Studio_Code-informational?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-## Database
+## Database I use
 ![](https://img.shields.io/badge/Tools-Realm_DB-informational?style=flat&logo=realm&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white)
 
 
-## Familiar with
-
+## Familiar with these technologies
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white)
@@ -63,6 +72,7 @@ Software Engineer at  <a href="https://magicapps.co.in">Magic Apps
 ![](https://img.shields.io/badge/Platform-React_Native-informational?style=flat&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Shell-GIT-informational?style=flat&logo=git&logoColor=white)
 
+## My status Report...
 <!-- Analytic Cards -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue)
 <!-- ![](https://github-readme-stats.vercel.app/api?username=PawanRoy1997) -->
