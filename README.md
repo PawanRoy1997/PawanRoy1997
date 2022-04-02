@@ -11,6 +11,12 @@ You can contact me if want collaboration in any project.
 [![](https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pawan-roy-4a2964214)
 [![Github: PawanRoy1997](https://img.shields.io/github/followers/PawanRoy1997?label=follow&style=social)](https://github.com/PawanRoy1997)
 
+## Currenty Working on
+[Simple Laravel Api](https://github.com/PawanRoy1997/cuddly-couscous) Project.
+
+## Learning 
+[GIMP](https://www.gimp.org/) for little bit of designing purposes.
+
 ## A little more about me
 
 ### Operating System I have used...
@@ -75,7 +81,7 @@ You can contact me if want collaboration in any project.
 ## My status Report...
 <!-- Analytic Cards -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=PawanRoy1997) -->
+![](https://github-readme-stats.vercel.app/api?username=PawanRoy1997)
 <!-- ![](https://github-profile-trophy.vercel.app/?username=PawanRoy1997) -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997)
