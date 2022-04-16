@@ -10,7 +10,7 @@ You can contact me if want collaboration in any project.
 
 ## Currenty Working on
 
-[Simple Laravel Api][sample-api-project] Project.
+[Symmetrical Sniffle][current-project] Project.
 
 ## Learning
 
@@ -144,7 +144,7 @@ You can contact me if want collaboration in any project.
 [my-gmail]: https://pawanroy0066@gmail.com
 [my-linkedin]: https://www.linkedin.com/in/pawan-roy-4a2964214
 [my-github]: https://github.com/PawanRoy1997
-[sample-api-project]: https://github.com/PawanRoy1997/cuddly-couscous
+[current-project]: https://github.com/PawanRoy1997/symmetrical-sniffle
 [gimp]: https://www.gimp.org/
 [magicapps-url]: https://magicapps.co.in
 <!-- Cards -->
