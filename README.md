@@ -91,8 +91,8 @@ You can contact me if want collaboration in any project.
 <!-- ![][profile-summary-card] -->
 <!-- ![][languages-used-card] -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997">
 
 <!-- Badges -->
 
