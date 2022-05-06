@@ -85,8 +85,8 @@ You can contact me if want collaboration in any project.
 <!-- Analytic Cards -->
 
 <div class="row">
-    <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue" >
-    <img width="10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997">
+    <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue" >
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997">
 </div>
 <!-- ![][profile-summary-card] -->
 <!-- ![][languages-used-card] -->
