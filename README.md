@@ -84,15 +84,15 @@ You can contact me if want collaboration in any project.
 
 <!-- Analytic Cards -->
 
-
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue" >
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997">
 <!-- ![][profile-summary-card] -->
 <!-- ![][languages-used-card] -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997">
+<div class="row">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997">
+</div>
 
 <!-- Badges -->
 
