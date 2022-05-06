@@ -32,9 +32,9 @@ You can contact me if want collaboration in any project.
 
 #### I know but not very familiar with...
 
-![][javascript-badge]
+<!-- ![][javascript-badge] -->
 ![][gradle-badge]
-![][php-badge]
+<!-- ![][php-badge] -->
 ![][bash-badge]
 
 ## Editors I am Familiar with...
@@ -52,32 +52,32 @@ You can contact me if want collaboration in any project.
 
 ## Familiar with these technologies
 
-![][spring-badge]
-![][laravel-badge]
+<!-- ![][spring-badge] -->
+<!-- ![][laravel-badge] -->
 ![][actions-badge]
 ![][android-badge]
-![][cloud-badge]
-![][heroku-badge]
+<!-- ![][cloud-badge] -->
+<!-- ![][heroku-badge] -->
 ![][figma-badge]
-![][gimp-badge]
-![][bootstrap-badge]
-![][composer-badge]
-![][expo-badge]
-![][express-badge]
+<!-- ![][gimp-badge] -->
+<!-- ![][bootstrap-badge] -->
+<!-- ![][composer-badge] -->
+<!-- ![][expo-badge] -->
+<!-- ![][express-badge] -->
 ![][firebase-badge]
-![][jest-badge]
+<!-- ![][jest-badge] -->
 ![][junit5-badge]
-![][laravel-badge]
+<!-- ![][laravel-badge] -->
 ![][postman-badge]
-![][redux-badge]
-![][css-badge]
-![][xampp-badge]
-![][yarn-badge]
+<!-- ![][redux-badge] -->
+<!-- ![][css-badge] -->
+<!-- ![][xampp-badge] -->
+<!-- ![][yarn-badge] -->
 ![][neovim-badge]
 ![][vim-badge]
-![][eslint-badge]
-![][prettier-badge]
-![][react-badge]
+<!-- ![][eslint-badge] -->
+<!-- ![][prettier-badge] -->
+<!-- ![][react-badge] -->
 ![][git-badge]
 
 ## My status Report...
