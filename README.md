@@ -1,8 +1,8 @@
 <h2> Hi, I'm Pawan Roy</h2>
 
-Android Application Developer.
-Like to try new technologies.
-Foodie.
+- Android Application Developer.
+- Like to try new technologies.
+- Foodie.
 
 You can contact me if want collaboration in any project.
 
@@ -61,14 +61,14 @@ You can contact me if want collaboration in any project.
 ![][figma-badge]
 ![][gimp-badge]
 ![][bootstrap-badge]
-![][Composer-badge]
+![][composer-badge]
 ![][expo-badge]
 ![][express-badge]
 ![][firebase-badge]
 ![][jest-badge]
 ![][junit5-badge]
 ![][laravel-badge]
-![][Postman-badge]
+![][postman-badge]
 ![][redux-badge]
 ![][css-badge]
 ![][xampp-badge]
@@ -84,10 +84,15 @@ You can contact me if want collaboration in any project.
 
 <!-- Analytic Cards -->
 
-![][profile-summary-card]
-![][gihub-status-card]
-![][languages-used-card]
-![][contributions-card]
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue" >
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997">
+<!-- ![][profile-summary-card] -->
+<!-- ![][languages-used-card] -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997">
 
 <!-- Badges -->
 
@@ -111,35 +116,34 @@ You can contact me if want collaboration in any project.
 [realm-badge]: https://img.shields.io/badge/Tools-Realm_DB-informational?style=flat&logo=realm&logoColor=white
 [mariadb-badge]: https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white
 [mysql-badge]: https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white
-
-[sqlite-badge]:https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white
-[spring-badge]:https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white
-[laravel-badge]:https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white
-[actions-badge]:https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white
-[android-badge]:https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white
-[cloud-badge]:https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white
-[heroku-badge]:https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white
-[figma-badge]:https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white
-[gimp-badge]:https://img.shields.io/badge/Tool-gimp-informational?style=flat&logo=gimp&logoColor=white
-[bootstrap-badge]:https://img.shields.io/badge/Fragmenwork-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white
-[Composer-badge]:https://img.shields.io/badge/Dependency_Manager-Composer-informational?style=flat&logo=Composer&logoColor=white
-[expo-badge]:https://img.shields.io/badge/Platform-Expo-informational?style=flat&logo=expo&logoColor=white
-[express-badge]:https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white
-[firebase-badge]:https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white
-[jest-badge]:https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=white
-[junit5-badge]:https://img.shields.io/badge/Framework-Junit5-informational?style=flat&logo=junit5&logoColor=white
-[laravel-badge]:https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white
-[Postman-badge]:https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white
-[redux-badge]:https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white
-[css-badge]:https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white
-[xampp-badge]:https://img.shields.io/badge/Tool-Xampp-informational?style=flat&logo=xampp&logoColor=white
-[yarn-badge]:https://img.shields.io/badge/Dependency_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=white
-[neovim-badge]:https://img.shields.io/badge/Editor-NeoVim-informational?&style=flat&logo=neovim&logoColor=white
-[vim-badge]:https://img.shields.io/badge/Editor-VIM-informational?&style=flat&logo=vim&logoColor=white
-[eslint-badge]:https://img.shields.io/badge/Linter-Eslint-informational?style=flat&logo=eslint&logoColor=white
-[prettier-badge]:https://img.shields.io/badge/Formatter-prettier-informational?style=flat&logo=prettier&logoColor=white
-[react-badge]:https://img.shields.io/badge/Platform-React_Native-informational?style=flat&logo=react&logoColor=white
-[git-badge]:https://img.shields.io/badge/Shell-GIT-informational?style=flat&logo=git&logoColor=white
+[sqlite-badge]: https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white
+[spring-badge]: https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=spring&logoColor=white
+[laravel-badge]: https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white
+[actions-badge]: https://img.shields.io/badge/Cloud-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white
+[android-badge]: https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white
+[cloud-badge]: https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white
+[heroku-badge]: https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white
+[figma-badge]: https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=figma&logoColor=white
+[gimp-badge]: https://img.shields.io/badge/Tool-gimp-informational?style=flat&logo=gimp&logoColor=white
+[bootstrap-badge]: https://img.shields.io/badge/Fragmenwork-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white
+[composer-badge]: https://img.shields.io/badge/Dependency_Manager-Composer-informational?style=flat&logo=Composer&logoColor=white
+[expo-badge]: https://img.shields.io/badge/Platform-Expo-informational?style=flat&logo=expo&logoColor=white
+[express-badge]: https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=express&logoColor=white
+[firebase-badge]: https://img.shields.io/badge/Platform-Firebase-informational?style=flat&logo=firebase&logoColor=white
+[jest-badge]: https://img.shields.io/badge/Framework-Jest-informational?style=flat&logo=jest&logoColor=white
+[junit5-badge]: https://img.shields.io/badge/Framework-Junit5-informational?style=flat&logo=junit5&logoColor=white
+[laravel-badge]: https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white
+[postman-badge]: https://img.shields.io/badge/Tool-Postman-informational?style=flat&logo=Postman&logoColor=white
+[redux-badge]: https://img.shields.io/badge/Library-Redux-informational?style=flat&logo=redux&logoColor=white
+[css-badge]: https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&logoColor=white
+[xampp-badge]: https://img.shields.io/badge/Tool-Xampp-informational?style=flat&logo=xampp&logoColor=white
+[yarn-badge]: https://img.shields.io/badge/Dependency_Manager-Yarn-informational?style=flat&logo=yarn&logoColor=white
+[neovim-badge]: https://img.shields.io/badge/Editor-NeoVim-informational?&style=flat&logo=neovim&logoColor=white
+[vim-badge]: https://img.shields.io/badge/Editor-VIM-informational?&style=flat&logo=vim&logoColor=white
+[eslint-badge]: https://img.shields.io/badge/Linter-Eslint-informational?style=flat&logo=eslint&logoColor=white
+[prettier-badge]: https://img.shields.io/badge/Formatter-prettier-informational?style=flat&logo=prettier&logoColor=white
+[react-badge]: https://img.shields.io/badge/Platform-React_Native-informational?style=flat&logo=react&logoColor=white
+[git-badge]: https://img.shields.io/badge/Shell-GIT-informational?style=flat&logo=git&logoColor=white
 
 <!-- Urls -->
 
@@ -149,7 +153,9 @@ You can contact me if want collaboration in any project.
 [current-project]: https://github.com/PawanRoy1997/symmetrical-sniffle
 [gimp]: https://www.gimp.org/
 [magicapps-url]: https://magicapps.co.in
+
 <!-- Cards -->
+
 [profile-summary-card]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue
 [gihub-status-card]: https://github-readme-stats.vercel.app/api?username=PawanRoy1997
 [languages-used-card]: https://github-readme-stats.vercel.app/api/top-langs/?username=PawanRoy1997
