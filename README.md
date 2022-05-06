@@ -14,10 +14,6 @@ You can contact me if want collaboration in any project.
 
 [Symmetrical Sniffle][current-project] Project.
 
-## Learning
-
-[GIMP][gimp] for little bit of designing purposes.
-
 ## A little more about me
 
 ### Operating System I have used...
@@ -52,33 +48,33 @@ You can contact me if want collaboration in any project.
 
 ## Familiar with these technologies
 
-<!-- ![][spring-badge] -->
-<!-- ![][laravel-badge] -->
 ![][actions-badge]
 ![][android-badge]
+![][figma-badge]
+![][firebase-badge]
+![][junit5-badge]
+![][postman-badge]
+![][neovim-badge]
+![][vim-badge]
+![][git-badge]
+<!-- ![][spring-badge] -->
+<!-- ![][laravel-badge] -->
 <!-- ![][cloud-badge] -->
 <!-- ![][heroku-badge] -->
-![][figma-badge]
 <!-- ![][gimp-badge] -->
 <!-- ![][bootstrap-badge] -->
 <!-- ![][composer-badge] -->
 <!-- ![][expo-badge] -->
 <!-- ![][express-badge] -->
-![][firebase-badge]
 <!-- ![][jest-badge] -->
-![][junit5-badge]
 <!-- ![][laravel-badge] -->
-![][postman-badge]
 <!-- ![][redux-badge] -->
 <!-- ![][css-badge] -->
 <!-- ![][xampp-badge] -->
 <!-- ![][yarn-badge] -->
-![][neovim-badge]
-![][vim-badge]
 <!-- ![][eslint-badge] -->
 <!-- ![][prettier-badge] -->
 <!-- ![][react-badge] -->
-![][git-badge]
 
 ## My status Report...
 
