@@ -47,6 +47,6 @@ case "$DAY_OF_MONTH" in
     "03")DAY_PREF="rd";;
 esac
 
-echo "<p align=\"right\">$DAY_OF_WEEK</p>">>"$FILE"
-echo "<p align=\"right\">$DAY_OF_MONTH$DAY_PREF $MONTH_OF_YEAR $YEAR</p>">>"$FILE"
+echo "<p align=\"right\" style=\"font-size:26px\">$DAY_OF_WEEK</p>">>"$FILE"
+echo "<p align=\"right\" style=\"font-size:22px\">$DAY_OF_MONTH$DAY_PREF $MONTH_OF_YEAR $YEAR</p>">>"$FILE"
 cat content.md >> "$FILE"
