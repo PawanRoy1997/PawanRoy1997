@@ -3,18 +3,24 @@
   Hi, I'm Pawan Roy :man_technologist:
 </h1>
 
-## About me
+##  :tipping_hand_man: About me
+
+I am passionate Android Developer from India.
 
 - :office: Current working at [Teckborn](https://www.teckborn.com/)
 - :nerd_face: Android Application Developer.
 - :gear: I use daily: ```Kotlin```,```Java```
+- :telescope: Currently working on [PDF Converter](https://github.com/PawanRoy1997/PDFConverter)
+- :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android```
+- :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:
 
-### Contact me
+
+### :mailbox: Contact me
 [![][gmail-badge]][my-gmail]
 [![][linkedin-badge]][my-linkedin]
 [![][github-badge]][my-github]
 
-### My Status
+### :hourglass_flowing_sand: My Status
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=vue" >
 <div class="row">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997">
