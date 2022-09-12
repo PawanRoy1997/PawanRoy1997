@@ -26,7 +26,7 @@ I am passionate Android Developer from India.
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=github_dark" >
 <div class="row">
     <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997&theme=github_dark">
-    <img width="49%" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&fire=FFFFFF&sideLabels=FFFFFF&dates=4B8DDA&border=4B8DDA&stroke=FFFFFF&sideNums=40C463&currStreakNum=40C463)](https://git.io/streak-stats)">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&fire=FFFFFF&sideLabels=FFFFFF&dates=4B8DDA&border=4B8DDA&stroke=FFFFFF&sideNums=40C463&currStreakNum=40C463">
 </div>
 
 
