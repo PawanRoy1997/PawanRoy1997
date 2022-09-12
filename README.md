@@ -23,10 +23,10 @@ I am passionate Android Developer from India.
 [![][github-badge]][my-github]
 
 ### :hourglass_flowing_sand: My Status
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=solarized_dark" >
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=github_dark" >
 <div class="row">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997&theme=solarized_dark">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997&theme=solarized_dark">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PawanRoy1997&theme=merko">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanRoy1997&theme=merko">
 </div>
 
 
