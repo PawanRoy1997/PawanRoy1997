@@ -9,15 +9,27 @@ rm "./$FILE"
 
 DAY="$(date +'%u')"
 case "$DAY" in
-    "0") DAY_OF_WEEK='Sunday :sunglasses:';;
-    "1") DAY_OF_WEEK='Monday :scream:';;
-    "2") DAY_OF_WEEK='Tuesday :tired_face:';;
-    "3") DAY_OF_WEEK='Wednesday :astonished:';;
-    "4") DAY_OF_WEEK='Thurday :relieved:';;
-    "5") DAY_OF_WEEK='Friday :smiley:';;
-    "6") DAY_OF_WEEK='Saturday :partying_face:';;
-    "7") DAY_OF_WEEK='Sunday :sunglasses:';;
+    "0") DAY_OF_WEEK='Sunday';;
+    "1") DAY_OF_WEEK='Monday';;
+    "2") DAY_OF_WEEK='Tuesday';;
+    "3") DAY_OF_WEEK='Wednesday';;
+    "4") DAY_OF_WEEK='Thurday';;
+    "5") DAY_OF_WEEK='Friday';;
+    "6") DAY_OF_WEEK='Saturday';;
+    "7") DAY_OF_WEEK='Sunday';;
 esac
+case "$DAY" in
+    "0") Emoji_OF_WEEK=' :sunglasses:';;
+    "1") Emoji_OF_WEEK=' :scream:';;
+    "2") Emoji_OF_WEEK=' :tired_face:';;
+    "3") Emoji_OF_WEEK=' :astonished:';;
+    "4") Emoji_OF_WEEK=' :relieved:';;
+    "5") Emoji_OF_WEEK=' :smiley:';;
+    "6") Emoji_OF_WEEK=' :partying_face:';;
+    "7") Emoji_OF_WEEK=' :sunglasses:';;
+esac
+
+
 
 DATE="$(date +'%d/%m/%y')"
 
@@ -47,6 +59,6 @@ case "$DAY_OF_MONTH" in
     "03")DAY_PREF="rd";;
 esac
 
-echo "<p align=\"right\" style=\"font-size:26px\">$DAY_OF_WEEK</p>">>"$FILE"
+echo "<p align=\"right\" style=\"font-size:26px\">$DAY_OF_WEEK</p>$Emoji_OF_WEEK">>"$FILE"
 echo "<p align=\"right\" style=\"font-size:22px\">$DAY_OF_MONTH$DAY_PREF $MONTH_OF_YEAR $YEAR</p>">>"$FILE"
 cat content.md >> "$FILE"
