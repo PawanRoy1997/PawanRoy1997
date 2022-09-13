@@ -22,8 +22,8 @@ jobs:
       # Profile details to make commit on your behalf
       - name: set user details
         run: |
-            git config user.name {{secrets.name}}
-            git config user.email {{secrets.email}}
+            git config user.name {{secrets.NAME}}
+            git config user.email {{secrets.EMAIL}}
 
       # Runs a single command using the runners shell
       - name: Run the update script
