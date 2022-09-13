@@ -1,5 +1,5 @@
-<p align="right" style="font-size:26px">Monday :scream:</p>
-<p align="right" style="font-size:22px">12th Sep 2022</p>
+<p align="right" style="font-size:26px">Tuesday :tired_face:</p>
+<p align="right" style="font-size:22px">13th Sep 2022</p>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   Hi, I'm Pawan Roy :man_technologist:
