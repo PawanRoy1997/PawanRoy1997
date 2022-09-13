@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd "/home/pawanroy/PawanRoy1997/PawanRoy1997"
+# cd "/home/pawanroy/PawanRoy1997/PawanRoy1997"
 
 bash "./generator.sh"
 git add .
