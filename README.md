@@ -7,12 +7,12 @@
 
 ##  :tipping_hand_man: About me
 
-I am passionate Android Developer from India.
+I am passionate Android Developer and clean code enthusiast git from India.
 
 - :office: Current working at [Teckborn](https://www.teckborn.com/)
 - :nerd_face: Android Application Developer.
 - :gear: I use daily: ```Kotlin```,```Java```
-- :telescope: Currently working on [PDF Converter](https://github.com/PawanRoy1997/PDFConverter)
+- :telescope: Currently working on [PDF Converter](https://github.com/PawanRoy1997/PDFConverter) and [DailyActionAutomation](https://github.com/PawanRoy1997/DailyActionAutomation)
 - :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android```
 - :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:
 
