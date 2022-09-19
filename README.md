@@ -7,7 +7,7 @@
 
 ##  :tipping_hand_man: About me
 
-I am passionate Android Developer and clean code enthusiast git from India.
+I am passionate Android Developer and clean code enthusiast from India.
 
 - :office: Current working at [Teckborn](https://www.teckborn.com/)
 - :nerd_face: Android Application Developer.
