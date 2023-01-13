@@ -1,5 +1,5 @@
-<h2 align="right" style="font-size:26px">Thurday  :relieved:</h2>
-<h3 align="right" style="font-size:22px">12th Jan 2023</h3>
+<h2 align="right" style="font-size:26px">Friday  :smiley:</h2>
+<h3 align="right" style="font-size:22px">13th Jan 2023</h3>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   Hi, I'm Pawan Roy :man_technologist:
