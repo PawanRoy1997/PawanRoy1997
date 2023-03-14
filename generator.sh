@@ -61,4 +61,6 @@ esac
 
 echo "<h2 align=\"right\" style=\"font-size:26px\">$DAY_OF_WEEK $Emoji_OF_WEEK</h2>">>"$FILE"
 echo "<h3 align=\"right\" style=\"font-size:22px\">$DAY_OF_MONTH$DAY_PREF $MONTH_OF_YEAR $YEAR</h3>">>"$FILE"
+echo "<img src="https:\/\/1.bp.blogspot.com\/-7A4WynwLsMw\/XbBpCXG8fHI\/AAAAAAAAMt4\/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ\/s1600\/2000_600px.gif" width="100%"/>
+"$FILE"
 cat content.md >> "$FILE"
