@@ -7,19 +7,14 @@
 
 I am passionate Android Developer and clean code enthusiast from India.
 
-<div class="row">
-  <div class="col">
+<img src="https://robertclark.design/assets/img/coding.gif" align="right" width="50%"/>
     
-    <ul> :office: Current working at [Teckborn](https://www.teckborn.com/) </ul>
-    <ul> :nerd_face: Android Application Developer. </ul>
-    <ul> :gear: I use daily: ```Kotlin```,```Java``` </ul>
-    <ul> :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) </ul>
-    <ul> :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android``` </ul>
-    <ul> :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:</ul>
-    
-  </div>
-  <img src="https://robertclark.design/assets/img/coding.gif" style="float: right;" width="50%"/>
-  </div>
+- :office: Current working at [Teckborn](https://www.teckborn.com/) 
+- :nerd_face: Android Application Developer. 
+- :gear: I use daily: ```Kotlin```,```Java``` 
+- :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) 
+- :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android``` 
+- :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:
 
 
 ### :mailbox: Contact me
