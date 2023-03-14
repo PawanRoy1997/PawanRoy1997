@@ -7,14 +7,19 @@
 
 I am passionate Android Developer and clean code enthusiast from India.
 
-<img src="https://robertclark.design/assets/img/coding.gif" style="float: right;" width="50%"/>
-
-- :office: Current working at [Teckborn](https://www.teckborn.com/)
-- :nerd_face: Android Application Developer.
-- :gear: I use daily: ```Kotlin```,```Java```
-- :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan)
-- :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android```
-- :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:
+<div class="row">
+  <div class="col">
+    
+    <ul> :office: Current working at [Teckborn](https://www.teckborn.com/) </ul>
+    <ul> :nerd_face: Android Application Developer. </ul>
+    <ul> :gear: I use daily: ```Kotlin```,```Java``` </ul>
+    <ul> :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) </ul>
+    <ul> :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android``` </ul>
+    <ul> :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:</ul>
+    
+  </div>
+  <img src="https://robertclark.design/assets/img/coding.gif" style="float: right;" width="50%"/>
+  </div>
 
 
 ### :mailbox: Contact me
@@ -24,8 +29,10 @@ I am passionate Android Developer and clean code enthusiast from India.
 
 ### :hourglass_flowing_sand: My Status
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=github_dark" width="100%"/>
-<img src="https://leetcard.jacoblin.cool/PawanRoy?theme=dark&ext=activity" width="100%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&fire=FFFFFF&sideLabels=FFFFFF&dates=4B8DDA&border=4B8DDA&stroke=FFFFFF&sideNums=40C463&currStreakNum=40C463" width="100%"/>
+<div class="row">
+<img src="https://leetcard.jacoblin.cool/PawanRoy?theme=dark&ext=activity" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&fire=FFFFFF&sideLabels=FFFFFF&dates=4B8DDA&border=4B8DDA&stroke=FFFFFF&sideNums=40C463&currStreakNum=40C463" width="49%"/>
+  </div>
 
 [gmail-badge]: https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white
 [linkedin-badge]: https://img.shields.io/badge/-pawanroy-blue?style=flat-&logo=Linkedin&logoColor=white
