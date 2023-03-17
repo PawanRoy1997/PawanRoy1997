@@ -23,10 +23,10 @@ I am passionate Android Developer and clean code enthusiast from India.
 [![][github-badge]][my-github]
 
 ### :hourglass_flowing_sand: My Status
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997" width="100%"/>
 <div class="row">
-<img src="https://leetcard.jacoblin.cool/PawanRoy?theme=dark&ext=activity" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&theme=github-dark&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&fire=FFFFFF&sideLabels=FFFFFF&dates=4B8DDA&border=4B8DDA&stroke=FFFFFF&sideNums=40C463&currStreakNum=40C463" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/PawanRoy?text=activity&theme=light" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&sideLabels=EB5454&dates=4B8DDA&border=4B8DDA&stroke=4B8DDA&sideNums=40C463&currStreakNum=40C463" width="49%"/>
   </div>
 
 [gmail-badge]: https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white
