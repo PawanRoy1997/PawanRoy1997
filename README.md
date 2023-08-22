@@ -15,6 +15,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 - :office: Current working at [Paytm](https://paytm.com//) 
 - :nerd_face: Android Application Developer. 
 - :gear: I use daily: ```Kotlin```,```Java``` 
+- :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) 
 - :speech_balloon: Ask me about ```Kotlin```, ```Java```, ```Android``` 
 - :zap: Fun Fact I like to do accounting as well.:stuck_out_tongue_closed_eyes:
 
