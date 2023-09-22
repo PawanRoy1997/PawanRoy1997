@@ -29,7 +29,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997" width="100%"/>
 <div class="row">
 <img src="https://leetcard.jacoblin.cool/PawanRoy?text=activity&theme=light" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997&date_format=j%20M%5B%20Y%5D&ring=4B8DDA&sideLabels=EB5454&dates=4B8DDA&border=4B8DDA&stroke=4B8DDA&sideNums=40C463&currStreakNum=40C463" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997" width="49%"/>
   </div>
 
 [gmail-badge]: https://img.shields.io/badge/Gmail-Pawan_Roy-informational?style=flat&logo=gmail&logoColor=white
