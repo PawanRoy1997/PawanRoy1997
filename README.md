@@ -12,7 +12,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 
 <img src="https://robertclark.design/assets/img/coding.gif" align="right" width="50%"/>
     
-- :office: Current working at [Paytm](https://paytm.com//) 
+- :office: Current working at Ex Paytm Software Engineeer
 - :nerd_face: Android Application Developer. 
 - :gear: I use daily: ```Kotlin```,```Java``` 
 - :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) 
