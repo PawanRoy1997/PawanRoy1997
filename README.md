@@ -1,5 +1,5 @@
-<h2 align="right" style="font-size:26px">Sunday  :sunglasses:</h2>
-<h3 align="right" style="font-size:22px">24th Sep 2023</h3>
+<h2 align="right" style="font-size:26px">Wednesday  :astonished:</h2>
+<h3 align="right" style="font-size:22px">27th Sep 2023</h3>
 <img src=https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif width=100%/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -12,7 +12,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 
 <img src="https://robertclark.design/assets/img/coding.gif" align="right" width="50%"/>
     
-- :office: Current working at [Paytm](https://paytm.com//) 
+- :office: Current working at Ex Paytm Software Engineeer
 - :nerd_face: Android Application Developer. 
 - :gear: I use daily: ```Kotlin```,```Java``` 
 - :telescope: Currently working on [LeetCode Solution](https://github.com/PawanRoy1997/leetcode_studyplan) 
