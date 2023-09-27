@@ -21,6 +21,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 [![][gmail-badge]][my-gmail]
 [![][linkedin-badge]][my-linkedin]
 [![][github-badge]][my-github]
+[:page_facing_up:](/Resume-Pawan-Roy%20(1).pdf)
 
 ### :hourglass_flowing_sand: My Status
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997" width="100%"/>
