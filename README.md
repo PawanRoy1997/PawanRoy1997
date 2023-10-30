@@ -24,14 +24,14 @@ I am passionate Android Developer and clean code enthusiast from India.
 [![][gmail-badge]][my-gmail]
 [![][linkedin-badge]][my-linkedin]
 [![][github-badge]][my-github]
-<a href="https://github.com/PawanRoy1997/PawanRoy1997/blob/main/Resume-Pawan-Roy%20(1).pdf" download>
+<a href="https://github.com/PawanRoy1997/PawanRoy1997/blob/main/Resume-Pawan-Roy.pdf" download>
 ![]( https://img.shields.io/badge/Download-Resume-informational?style=flat)
 </a>
 
 ### :hourglass_flowing_sand: My Status
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997" width="100%"/>
 <div class="row">
-<img src="https://leetcard.jacoblin.cool/PawanRoy?text=activity&theme=light" width="49%"/>
+<img src="https://leetcard.jacoblin.cool/PawanRoy1997?text=activity&theme=light" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997" width="49%"/>
   </div>
 
