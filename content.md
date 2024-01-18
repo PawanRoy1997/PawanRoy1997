@@ -23,7 +23,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 <a href="https://medium.com/@pawanroy1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pawanroy1997" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pawanroy1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawanroy1997" height="30" width="40" /></a>
 <a href="https://www.github.com/pawanroy1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="pawanroy1997" height="30" width="40" /></a>
-<a href="https://github.com/PawanRoy1997/PawanRoy1997/blob/main/Resume-Pawan-Roy.pdf" download><img src="https://img.shields.io/badge/Download-Resume-informational?style=flat"width="30" height = "40"/>
+<a href="https://github.com/PawanRoy1997/PawanRoy1997/blob/main/Resume-Pawan-Roy.pdf" download><img src="https://img.shields.io/badge/Download-Resume-informational?style=flat" height="30"/>
 </a>
 </p>
 
