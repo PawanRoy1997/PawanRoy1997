@@ -1,5 +1,5 @@
-<h2 align="right" style="font-size:26px">Tuesday  :tired_face:</h2>
-<h3 align="right" style="font-size:22px">08th Oct 2024</h3>
+<h2 align="right" style="font-size:26px">Wednesday  :astonished:</h2>
+<h3 align="right" style="font-size:22px">09th Oct 2024</h3>
 <img src=https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif width=100%/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
