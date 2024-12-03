@@ -32,10 +32,10 @@ I am passionate Android Developer and clean code enthusiast from India.
 
 ### :hourglass_flowing_sand: My Status
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PawanRoy1997" width="100%"/>
-<div class="row">
-<img src="https://leetcard.jacoblin.cool/PawanRoy1997?text=activity&theme=light" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997" width="49%"/>
-  </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=PawanRoy1997" width="100%"/>
+<img src="https://leetcard.jacoblin.cool/PawanRoy1997?text=activity&theme=light&extension=activity" width="100%"/>
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=PawanRoy1997&theme=light" alt="LeetCode Badges" width="100%"/>
 
   <p align="left"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
