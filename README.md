@@ -1,5 +1,5 @@
-<h2 align="right" style="font-size:26px">Monday  :scream:</h2>
-<h3 align="right" style="font-size:22px">29th Dec 2025</h3>
+<h2 align="right" style="font-size:26px">Tuesday  :tired_face:</h2>
+<h3 align="right" style="font-size:22px">30th Dec 2025</h3>
 <img src=https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif width=100%/>
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
