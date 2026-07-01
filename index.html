@@ -37,7 +37,6 @@
 
   .wrap{max-width:980px; margin:0 auto; padding:0 28px;}
 
-  /* background grid texture */
   .grid-bg{
     position:fixed; inset:0; z-index:-1;
     background-image:
@@ -47,7 +46,6 @@
     mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, black 30%, transparent 80%);
   }
 
-  /* NAV */
   header{
     position:sticky; top:0; z-index:50;
     backdrop-filter: blur(10px);
@@ -58,10 +56,7 @@
     display:flex; align-items:center; justify-content:space-between;
     padding:16px 28px; max-width:980px; margin:0 auto;
   }
-  .logo{
-    font-family:var(--font-mono); font-size:14px; font-weight:600;
-    letter-spacing:0.02em;
-  }
+  .logo{font-family:var(--font-mono); font-size:14px; font-weight:600; letter-spacing:0.02em;}
   .logo .dot{color:var(--accent);}
   .navlinks{display:flex; gap:28px; list-style:none; font-family:var(--font-mono); font-size:13px;}
   .navlinks a{color:var(--muted); text-decoration:none; transition:color .2s;}
@@ -69,11 +64,7 @@
   .navlinks li::before{content:"";}
   @media(max-width:640px){ .navlinks{display:none;} }
 
-  /* HERO */
-  .hero{
-    padding:100px 0 80px;
-    border-bottom:1px solid var(--line);
-  }
+  .hero{padding:100px 0 80px; border-bottom:1px solid var(--line);}
   .eyebrow{
     font-family:var(--font-mono); font-size:13px; color:var(--accent);
     display:flex; align-items:center; gap:10px; margin-bottom:24px;
@@ -86,101 +77,55 @@
   @keyframes pulse{0%,100%{opacity:1;}50%{opacity:.3;}}
 
   h1{
-    font-family:var(--font-display);
-    font-weight:700;
-    font-size:clamp(38px,6vw,68px);
-    line-height:1.05;
-    letter-spacing:-0.02em;
-    margin-bottom:20px;
+    font-family:var(--font-display); font-weight:700;
+    font-size:clamp(38px,6vw,68px); line-height:1.05;
+    letter-spacing:-0.02em; margin-bottom:20px;
   }
   h1 span{color:var(--accent);}
-  .lede{
-    font-size:18px; color:var(--muted); max-width:620px; margin-bottom:36px;
-  }
-  .hero-meta{
-    display:flex; flex-wrap:wrap; gap:14px 28px;
-    font-family:var(--font-mono); font-size:13px; color:var(--muted);
-  }
+  .lede{font-size:18px; color:var(--muted); max-width:620px; margin-bottom:36px;}
+  .hero-meta{display:flex; flex-wrap:wrap; gap:14px 28px; font-family:var(--font-mono); font-size:13px; color:var(--muted);}
   .hero-meta a{color:var(--text); text-decoration:none; border-bottom:1px solid var(--line); padding-bottom:2px; transition:border-color .2s, color .2s;}
   .hero-meta a:hover{color:var(--accent); border-color:var(--accent);}
 
-  /* SECTION HEADERS as code comments */
   .section{padding:72px 0; border-bottom:1px solid var(--line);}
   .section:last-of-type{border-bottom:none;}
-  .sec-label{
-    font-family:var(--font-mono); font-size:13px; color:var(--accent-dim);
-    margin-bottom:8px;
-  }
-  .sec-title{
-    font-family:var(--font-display); font-weight:600; font-size:28px;
-    margin-bottom:36px; letter-spacing:-0.01em;
-  }
+  .sec-label{font-family:var(--font-mono); font-size:13px; color:var(--accent-dim); margin-bottom:8px;}
+  .sec-title{font-family:var(--font-display); font-weight:600; font-size:28px; margin-bottom:36px; letter-spacing:-0.01em;}
 
-  /* LOGCAT TIMELINE (signature element) */
-  .logcat{
-    font-family:var(--font-mono); font-size:13px;
-    background:var(--surface); border:1px solid var(--line); border-radius:10px;
-    overflow:hidden;
-  }
-  .logcat-bar{
-    display:flex; align-items:center; gap:8px;
-    padding:10px 16px; border-bottom:1px solid var(--line);
-    background:var(--surface-2); color:var(--muted); font-size:12px;
-  }
+  .logcat{font-family:var(--font-mono); font-size:13px; background:var(--surface); border:1px solid var(--line); border-radius:10px; overflow:hidden;}
+  .logcat-bar{display:flex; align-items:center; gap:8px; padding:10px 16px; border-bottom:1px solid var(--line); background:var(--surface-2); color:var(--muted); font-size:12px;}
   .logcat-bar .dots{display:flex; gap:6px;}
   .logcat-bar .dots span{width:9px;height:9px;border-radius:50%; display:inline-block;}
   .logcat-bar .dots span:nth-child(1){background:#FF8A5C;}
   .logcat-bar .dots span:nth-child(2){background:#FFD15C;}
   .logcat-bar .dots span:nth-child(3){background:#B8FF3C;}
 
-  .job{
-    padding:22px 20px; border-bottom:1px solid var(--line);
-  }
+  .job{padding:22px 20px; border-bottom:1px solid var(--line);}
   .job:last-child{border-bottom:none;}
-  .job-head{
-    display:flex; flex-wrap:wrap; justify-content:space-between; align-items:baseline;
-    gap:8px; margin-bottom:6px;
-  }
+  .job-head{display:flex; flex-wrap:wrap; justify-content:space-between; align-items:baseline; gap:8px; margin-bottom:6px;}
   .job-role{font-family:var(--font-display); font-weight:600; font-size:17px; color:var(--text);}
   .job-role .sep{color:var(--accent-dim);}
   .job-co{color:var(--accent); font-weight:500;}
   .job-time{color:var(--muted); font-size:12px; white-space:nowrap;}
   .job-loc{color:var(--muted); font-size:12px; margin-bottom:10px;}
   .job ul{list-style:none; padding:0;}
-  .job li{
-    position:relative; padding-left:20px; margin-bottom:7px; color:#C9CFC0; font-size:13.5px;
-  }
-  .job li::before{
-    content:">"; position:absolute; left:0; color:var(--accent-dim);
-  }
+  .job li{position:relative; padding-left:20px; margin-bottom:7px; color:#C9CFC0; font-size:13.5px;}
+  .job li::before{content:">"; position:absolute; left:0; color:var(--accent-dim);}
 
-  /* PROJECTS GRID */
   .grid{display:grid; grid-template-columns:repeat(auto-fit, minmax(260px,1fr)); gap:18px;}
-  .card{
-    background:var(--surface); border:1px solid var(--line); border-radius:10px;
-    padding:22px; transition:border-color .2s, transform .2s;
-  }
+  .card{background:var(--surface); border:1px solid var(--line); border-radius:10px; padding:22px; transition:border-color .2s, transform .2s;}
   .card:hover{border-color:var(--accent-dim); transform:translateY(-2px);}
   .card-title{font-family:var(--font-display); font-weight:600; font-size:17px; margin-bottom:8px;}
   .card-desc{font-size:13.5px; color:var(--muted); margin-bottom:14px;}
   .tag-row{display:flex; flex-wrap:wrap; gap:6px;}
-  .tag{
-    font-family:var(--font-mono); font-size:11px; color:var(--accent);
-    background:rgba(184,255,60,0.08); border:1px solid rgba(184,255,60,0.2);
-    padding:3px 8px; border-radius:5px;
-  }
+  .tag{font-family:var(--font-mono); font-size:11px; color:var(--accent); background:rgba(184,255,60,0.08); border:1px solid rgba(184,255,60,0.2); padding:3px 8px; border-radius:5px;}
 
-  /* SKILLS */
   .skill-block{margin-bottom:22px;}
   .skill-block:last-child{margin-bottom:0;}
   .skill-label{font-family:var(--font-mono); font-size:12px; color:var(--muted); margin-bottom:10px; text-transform:uppercase; letter-spacing:0.05em;}
   .pill-row{display:flex; flex-wrap:wrap; gap:8px;}
-  .pill{
-    font-size:13px; padding:6px 13px; border-radius:20px;
-    border:1px solid var(--line); background:var(--surface); color:var(--text);
-  }
+  .pill{font-size:13px; padding:6px 13px; border-radius:20px; border:1px solid var(--line); background:var(--surface); color:var(--text);}
 
-  /* EDUCATION / LANG */
   .two-col{display:grid; grid-template-columns:1fr 1fr; gap:36px;}
   @media(max-width:680px){.two-col{grid-template-columns:1fr;}}
   .edu-item{margin-bottom:20px;}
@@ -189,31 +134,19 @@
   .edu-deg{color:var(--muted); font-size:13.5px; margin-top:2px;}
   .edu-time{font-family:var(--font-mono); font-size:11.5px; color:var(--accent-dim); margin-top:4px;}
 
-  /* FOOTER / CONTACT */
   .contact-section{padding:90px 0; text-align:center;}
-  .contact-title{
-    font-family:var(--font-display); font-weight:700;
-    font-size:clamp(28px,5vw,44px); margin-bottom:18px; letter-spacing:-0.01em;
-  }
+  .contact-title{font-family:var(--font-display); font-weight:700; font-size:clamp(28px,5vw,44px); margin-bottom:18px; letter-spacing:-0.01em;}
   .contact-sub{color:var(--muted); max-width:480px; margin:0 auto 36px;}
   .btn-row{display:flex; gap:14px; justify-content:center; flex-wrap:wrap;}
-  .btn{
-    font-family:var(--font-mono); font-size:13.5px; text-decoration:none;
-    padding:13px 26px; border-radius:8px; transition:all .2s;
-  }
+  .btn{font-family:var(--font-mono); font-size:13.5px; text-decoration:none; padding:13px 26px; border-radius:8px; transition:all .2s;}
   .btn-primary{background:var(--accent); color:#0E120D; font-weight:600;}
   .btn-primary:hover{background:#cfff7a;}
   .btn-ghost{border:1px solid var(--line); color:var(--text);}
   .btn-ghost:hover{border-color:var(--accent-dim); color:var(--accent);}
 
-  footer{
-    padding:28px 0; text-align:center; font-family:var(--font-mono);
-    font-size:12px; color:var(--muted); border-top:1px solid var(--line);
-  }
+  footer{padding:28px 0; text-align:center; font-family:var(--font-mono); font-size:12px; color:var(--muted); border-top:1px solid var(--line);}
 
-  @media(prefers-reduced-motion: reduce){
-    *{animation:none !important; transition:none !important;}
-  }
+  @media(prefers-reduced-motion: reduce){*{animation:none !important; transition:none !important;}}
 </style>
 </head>
 <body>
@@ -235,10 +168,10 @@
 
   <section class="hero">
     <div class="eyebrow">AVAILABLE FOR OPPORTUNITIES</div>
-    <h1>Pawan Roy builds<br><span>Android, at scale.</span></h1>
-    <p class="lede">Mobile Development Lead with 7+ years shipping production Kotlin apps — from architecture decisions and team mentorship down to the bottleneck three layers deep in a stack trace.</p>
+    <h1>Pawan Roy<br><span>builds Android, at scale.</span></h1>
+    <p class="lede">Mobile Development Lead with 5+ years shipping production Kotlin apps — from architecture decisions and team mentorship down to the bottleneck three layers deep in a stack trace.</p>
     <div class="hero-meta">
-      <span>Gautam Buddha Nagar, Uttar Pradesh, India</span>
+      <span>Uttar Pradesh, India</span>
       <a href="mailto:pawanroy0066@gmail.com">pawanroy0066@gmail.com</a>
       <a href="https://linkedin.com/in/PawanRoy1997" target="_blank">linkedin.com/in/PawanRoy1997</a>
       <a href="https://github.com/PawanRoy1997" target="_blank">github.com/PawanRoy1997</a>
@@ -260,25 +193,20 @@
           <div class="job-role">Mobile Development Lead <span class="sep">·</span> <span class="job-co">Deltafour</span></div>
           <div class="job-time">May 2026 — Present</div>
         </div>
-        <div class="job-loc">Remote</div>
-        <ul>
-          <li>Promoted to lead the mobile engineering team based on technical ownership and delivery impact.</li>
-          <li>Own mobile architecture decisions, sprint planning, and execution across multiple client projects.</li>
-          <li>Mentor developers through code reviews and architectural guidance.</li>
-          <li>Built internal tooling that cut turnaround time by 80%, accelerating dev and QA cycles.</li>
-        </ul>
-      </div>
-
-      <div class="job">
         <div class="job-head">
           <div class="job-role">Software Development Engineer <span class="sep">·</span> <span class="job-co">Deltafour</span></div>
           <div class="job-time">Dec 2023 — Apr 2026</div>
         </div>
         <div class="job-loc">Remote</div>
         <ul>
+          <li>Promoted to lead the mobile engineering team based on technical ownership and delivery impact.</li>
+          <li>Own mobile architecture decisions, sprint planning, and execution across multiple client projects.</li>
+          <li>Mentor developers through code reviews and architectural guidance.</li>
           <li>Cut project size 30% through strategic refactoring and more efficient algorithms.</li>
           <li>Improved app performance 10% by isolating and removing critical bottlenecks.</li>
-          <li>Built scalable Android features for enterprise apps with a focus on maintainability.</li>
+          <li>Built a real-time crash alerting system that emails the team the moment a production crash occurs, cutting issue-detection time significantly.</li>
+          <li>Designed a dynamic per-client update-check mechanism that determines whether a specific tenant needs an update, eliminating unnecessary prompts.</li>
+          <li>Built a secure environment switcher across test, dev, prod, and ngrok — eliminating extra builds during QA.</li>
         </ul>
       </div>
 
@@ -287,7 +215,7 @@
           <div class="job-role">Software Engineer <span class="sep">·</span> <span class="job-co">One97 Communications</span></div>
           <div class="job-time">May 2023 — Sep 2023</div>
         </div>
-        <div class="job-loc">Gautam Buddha Nagar, Uttar Pradesh, India</div>
+        <div class="job-loc">Uttar Pradesh, India</div>
         <ul>
           <li>Built on Android architecture components for a highly scalable app, increasing user capacity 25%.</li>
           <li>Collaborated cross-functionally to ship reliable software, reducing bugs 15%.</li>
@@ -300,7 +228,7 @@
           <div class="job-role">Android Developer <span class="sep">·</span> <span class="job-co">Teckborn Technologies</span></div>
           <div class="job-time">May 2022 — May 2023</div>
         </div>
-        <div class="job-loc">Gautam Buddha Nagar, Uttar Pradesh, India</div>
+        <div class="job-loc">Remote</div>
         <ul>
           <li>Designed and maintained scalable software with cross-functional teams, raising throughput 15%.</li>
           <li>Implemented unit and instrumentation tests, reducing critical bugs and device compatibility issues.</li>
@@ -313,60 +241,17 @@
           <div class="job-role">Software Developer <span class="sep">·</span> <span class="job-co">Magic Apps</span></div>
           <div class="job-time">Aug 2021 — Apr 2022</div>
         </div>
-        <div class="job-loc">Gautam Buddha Nagar, Uttar Pradesh, India</div>
+        <div class="job-loc">Uttar Pradesh, India</div>
         <ul>
           <li>Designed and maintained projects cross-functionally, improving team efficiency 10%.</li>
           <li>Wrote code documentation that reduced onboarding time 15%.</li>
         </ul>
       </div>
-
-      <div class="job">
-        <div class="job-head">
-          <div class="job-role">Android Developer Intern <span class="sep">·</span> <span class="job-co">Xatcovis Solutions</span></div>
-          <div class="job-time">Feb 2019 — Jul 2019</div>
-        </div>
-        <div class="job-loc">Gautam Buddha Nagar, Uttar Pradesh, India</div>
-        <ul>
-          <li>Collaborated cross-functionally on Android projects, improving team communication.</li>
-          <li>Optimized app performance and rectified bottlenecks, enhancing UX.</li>
-        </ul>
-      </div>
-
-      <div class="job">
-        <div class="job-head">
-          <div class="job-role">Android Developer Intern <span class="sep">·</span> <span class="job-co">ThePadosi</span></div>
-          <div class="job-time">Sep 2018 — Nov 2018</div>
-        </div>
-        <div class="job-loc">Gautam Buddha Nagar, Uttar Pradesh, India</div>
-        <ul>
-          <li>Designed and maintained scalable Android projects with cross-platform teams.</li>
-          <li>Authored documentation that improved code readability.</li>
-        </ul>
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="sec-label">// 02 — initiatives</div>
-    <h2 class="sec-title">Process Improvements</h2>
-    <div class="grid">
-      <div class="card">
-        <div class="card-title">Crash alerting</div>
-        <p class="card-desc">Real-time crash notification system that emails alerts the moment production crashes, cutting issue-detection time.</p>
-      </div>
-      <div class="card">
-        <div class="card-title">Smart update checks</div>
-        <p class="card-desc">Dynamic mechanism that determines whether a specific client needs an update, preventing unnecessary prompts.</p>
-      </div>
-      <div class="card">
-        <div class="card-title">Environment switching</div>
-        <p class="card-desc">Secure base-URL switcher between test, dev, prod, and ngrok — eliminating extra builds for testing.</p>
-      </div>
     </div>
   </section>
 
   <section class="section" id="projects">
-    <div class="sec-label">// 03 — built on the job</div>
+    <div class="sec-label">// 02 — built on the job</div>
     <h2 class="sec-title">Work Projects</h2>
     <div class="grid">
       <div class="card">
@@ -376,7 +261,7 @@
       </div>
       <div class="card">
         <div class="card-title">EHSOne</div>
-        <p class="card-desc">Advanced successor to Smart LOTO, currently in development, expanding into Incident Management, Observation Management, and Hazard Investigation & Risk Assessment (HIRA) alongside LOTO/PTW.</p>
+        <p class="card-desc">Advanced successor to Smart LOTO, currently in development, expanding into Incident Management, Observation Management, and Hazard Investigation &amp; Risk Assessment (HIRA) alongside LOTO/PTW.</p>
         <div class="tag-row"><span class="tag">Deltafour</span><span class="tag">Android</span><span class="tag">Kotlin</span><span class="tag">In Development</span></div>
       </div>
       <div class="card">
@@ -398,7 +283,7 @@
   </section>
 
   <section class="section" id="personal-projects">
-    <div class="sec-label">// 04 — built on my own time</div>
+    <div class="sec-label">// 03 — built on my own time</div>
     <h2 class="sec-title">Personal Projects</h2>
     <div class="grid">
       <div class="card">
@@ -415,7 +300,7 @@
   </section>
 
   <section class="section" id="skills">
-    <div class="sec-label">// 05 — toolbox</div>
+    <div class="sec-label">// 04 — toolbox</div>
     <h2 class="sec-title">Skills</h2>
     <div class="skill-block">
       <div class="skill-label">Technical</div>
@@ -428,7 +313,7 @@
       </div>
     </div>
     <div class="skill-block">
-      <div class="skill-label">Tools & Methodologies</div>
+      <div class="skill-label">Tools &amp; Methodologies</div>
       <div class="pill-row">
         <span class="pill">Jira</span><span class="pill">Confluence</span><span class="pill">Jenkins</span><span class="pill">GitHub</span>
       </div>
@@ -442,7 +327,7 @@
   </section>
 
   <section class="section">
-    <div class="sec-label">// 06 — background</div>
+    <div class="sec-label">// 05 — background</div>
     <h2 class="sec-title">Education</h2>
     <div class="two-col">
       <div class="edu-item">
@@ -462,7 +347,7 @@
 
 <section class="contact-section" id="contact">
   <div class="wrap">
-    <div class="sec-label" style="justify-content:center; display:flex;">// 07 — get in touch</div>
+    <div class="sec-label" style="justify-content:center; display:flex;">// 06 — get in touch</div>
     <h2 class="contact-title">Let's build something<br>that ships.</h2>
     <p class="contact-sub">Open to Mobile Lead and Senior Android roles, consulting, and interesting Kotlin problems.</p>
     <div class="btn-row">
@@ -474,7 +359,7 @@
 </section>
 
 <footer>
-  Pawan Roy — Gautam Buddha Nagar, Uttar Pradesh, India · +91 89204 43782
+  Pawan Roy — Uttar Pradesh, India · +91 89204 43782
 </footer>
 
 </body>
