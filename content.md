@@ -34,8 +34,7 @@ I am passionate Android Developer and clean code enthusiast from India.
 <img src="https://leetcard.jacoblin.cool/PawanRoy1997?text=activity&theme=light&extension=activity" width="100%"/>
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=PawanRoy1997&theme=light" alt="LeetCode Badges" width="100%"/>
 
-  <p align="left"> 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img ## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white)
